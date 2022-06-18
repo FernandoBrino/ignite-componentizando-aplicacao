@@ -5,5 +5,5 @@
 
 <div class="overview">
   <h2> Overview </h1>
-  <p>Challenge to refactor a app, but using components instead of using all in the same file. To learn how and when componentize.</p>
+  <p>Challenge to refactor a app, but using components instead of using all in the same file. To learn how and when componentize. Is a little streaming app.</p>
 </div>
